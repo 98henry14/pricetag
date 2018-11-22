@@ -1,6 +1,1 @@
-spring:
-  datasource:
-    url: jdbc:sqlserver://120.79.56.4:7081;DatabaseName=WTQDM
-    username: sa
-    password: qdm@123
-    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
